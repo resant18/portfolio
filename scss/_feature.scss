@@ -146,7 +146,7 @@
 					width: 5px;
 					background: rgba(255, 255, 255, .20);
 					position: absolute;
-					left: 46%;
+					left: 51%;
 					transform: translateX(-50%);
 					top: -5px;
 				}
@@ -160,7 +160,7 @@
 						display: block;
 						background: rgba(255, 255, 255, .2);
 						position: absolute;
-						left: 46%;
+						left: 51%;
 						top: 30px;
 						transform: translateX(-50%);
 						&:before{
@@ -180,7 +180,7 @@
 					}
 					.media{
 						.d-flex{
-							padding-right: 100px;
+							padding-right: 60px;
 							p{
 								color: rgba(255, 255, 255, .75);
 								margin-bottom: 0px;

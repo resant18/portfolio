@@ -5330,7 +5330,7 @@ input[type=submit].btn-block {
 
 .media-body {
     -ms-flex: 1;
-    flex: 1
+    flex: 1;    
 }
 
 .list-group {
@@ -6578,12 +6578,26 @@ button.bg-dark:hover {
 
 .d-flex {
     display: -ms-flexbox !important;
-    display: flex !important
+    display: flex !important;    
 }
 
 .d-inline-flex {
     display: -ms-inline-flexbox !important;
     display: inline-flex !important
+}
+
+.list .d-flex {
+    width: 55%;
+}
+
+.list .media-body {
+    width: 45%;
+}
+
+.list .d-flex {
+    justify-content: flex-end;
+    -ms-flex-pack: justify;
+    justify-content: flex-end;
 }
 
 @media (min-width:576px) {
