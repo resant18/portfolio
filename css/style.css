@@ -2589,7 +2589,7 @@ h6 {
     width: 5px;
     background: rgba(255, 255, 255, 0.2);
     position: absolute;
-    left: 46%;
+    left: 51%;
     transform: translateX(-50%);
     top: -5px; }
   .tabs_inner .tab-content .tab-pane .list li {
@@ -2602,7 +2602,7 @@ h6 {
       display: block;
       background: rgba(255, 255, 255, 0.2);
       position: absolute;
-      left: 46%;
+      left: 51%;
       top: 30px;
       transform: translateX(-50%); }
       .tabs_inner .tab-content .tab-pane .list li span:before {
