@@ -35,11 +35,12 @@
 .h_gallery_item{
 	display: inline-block;
 	margin-bottom: 45px;
-	.g_img_item{
+	.g_item_img{
 		position: relative;
 		text-align: center;
 		overflow: hidden;
 		border-radius: 5px;
+		cursor: pointer;		
 		&:before{
 			content: "";
 			width: 100%;
@@ -76,7 +77,7 @@
 		}
 	}
 	&:hover{
-		.g_img_item{
+		.g_item_img{
 			&:before{
 				opacity: .85;
 			}
