@@ -2733,6 +2733,11 @@ h6 {
   margin-bottom: 40px; }
 .personal_text .basic_info li {
   margin-bottom: 15px; }
+  .personal_text .basic_info li span {
+    position: relative;
+    padding-left: 25px;
+    font-size: 16px;
+    color: #777777; }
   .personal_text .basic_info li a {
     position: relative;
     padding-left: 40px;

@@ -23,7 +23,9 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+.lnr-home {
+	
+}
 .lnr-home:before {
 	content: "\e800";
 }
