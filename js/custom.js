@@ -73,10 +73,10 @@
                 $("#gallery").isotope({
                     itemSelector: ".gallery_item",
                     layoutMode: 'masonry',
-                    animationOptions: {
-                        duration: 750,
-                        easing: 'linear'
-                    }
+                    // animationOptions: {
+                    //     duration: 750,
+                    //     easing: 'linear'
+                    // }
                 });
             })
         }
